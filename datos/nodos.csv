@@ -1,0 +1,9 @@
+nodo;descripcion;flujo_exogeno_t_mes;tipo
+F1;Faena Norte (planta concentradora);12000;oferta
+F2;Faena Centro;9000;oferta
+F3;Faena Sur;7000;oferta
+A1;Acopio Calama;0;transbordo
+A2;Acopio Copiapó;0;transbordo
+P1;Puerto Angamos;-11000;demanda
+P2;Puerto Chañaral;-8000;demanda
+P3;Puerto Ventanas;-6000;demanda

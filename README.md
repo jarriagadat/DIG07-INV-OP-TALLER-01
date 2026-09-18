@@ -1,3 +1,14 @@
 # DIG07-INVESTIGACION-DE-OPERACIONES
-DIG07 INVESTIGACIÓN DE OPERACIONES
-MINERIA
+
+## Cómo ejecutar
+
+## Integrantes
++ Pasmiño, Catherinne
++ Jara, Felipe
++ Arriagada, Jorge
+
+## Instancia asignada
++ Minería
+
+
+

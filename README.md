@@ -13,7 +13,7 @@ Septiembre, 2026
 
 # Estructura del repositorio
 Taller1__/
-├── README.md cómo ejecutar, integrantes, instancia asignada
+├── README.md cómo ejecutar, integrantes, instancia asignada \
 ├── datos/ los CSV entregados, sin modificar
 ├── modelo.py formulación en Pyomo, sin datos incrustados
 ├── resultados/

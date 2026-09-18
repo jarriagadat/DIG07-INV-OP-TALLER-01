@@ -35,15 +35,6 @@ Control de Versiones e Historial de Commits: El trabajo fue desarrollado en cola
 + Minería
 
 # 📁 Estructura del Repositorio
-Taller1__/ \
-├── README.md cómo ejecutar, integrantes, instancia asignada \
-├── datos/ los CSV entregados, sin modificar \
-├── modelo.py formulación en Pyomo, sin datos incrustados \
-├── resultados/ \
-│ ├── solucion.csv flujos óptimos arco por arco \
-│ └── duales.csv valores duales de los nodos \
-└──cuaderno.ipynb desarrollo, verificación y respuestas \
-
 ```text
 Taller1/
 ├── README.md           # Cómo ejecutar, integrantes e instancia asignada

@@ -33,6 +33,8 @@ Control de Versiones e Historial de Commits: El trabajo fue desarrollado en cola
 
 ## Instancia asignada
 + Minería
++ <img width="700" height="394" alt="image" src="https://github.com/user-attachments/assets/cacd7237-43f0-47fb-8fe7-628d5a428bf4" /> (Fuente: https://www.nuevamineria.com/revista/costos-de-la-mineria-del-cobre-en-chile-se-han-incrementado-66-en-los-ultimos-cinco-anos/)
+
 
 # 📁 Estructura del Repositorio
 ```text
